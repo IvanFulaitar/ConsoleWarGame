@@ -44,3 +44,4 @@ dotnet build
 ## Вимоги
 
 - .NET SDK (поточний проєкт збирається на `net10.0`).
+<img width="1140" height="723" alt="image" src="https://github.com/user-attachments/assets/de0e88f0-6838-4b04-982e-9c39e359b2b5" />
