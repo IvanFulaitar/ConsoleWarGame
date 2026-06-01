@@ -1,0 +1,33 @@
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Logs and temp
+*.log
+*.tmp
+
+# Test / coverage
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local runtime output
+game_results.txt
